@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-06T18:59:55 IST" name="Default suite" finished-at="2024-04-06T18:59:56 IST" duration-ms="993">
+    <groups>
+    </groups>
+    <test started-at="2024-04-06T18:59:55 IST" name="Default test" finished-at="2024-04-06T18:59:56 IST" duration-ms="993">
+      <class name="com.api.test.getApi">
+        <test-method signature="getapi()[pri:0, instance:com.api.test.getApi@31368b99]" started-at="2024-04-06T18:59:55 IST" name="getapi" finished-at="2024-04-06T18:59:56 IST" duration-ms="963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getapi -->
+      </class> <!-- com.api.test.getApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
